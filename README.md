@@ -1,2 +1,7 @@
 # generate_pdf_report_script_python
-This Python script generates a PDF report and send it by email
+
+This Python script do the following tasks:
+
+* Summarizes and processes sales data into different categories
+* Generate a PDF using Python
+* Automatically send a PDF by email 
